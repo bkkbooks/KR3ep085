@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR3ep085/v1
+canonical_location: https://kanripo.org/bkk/KR3ep085/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 王氏醫案三編
+  identifiers:
+    krp: KR3ep085
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep085.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep085_000.yaml, hash: 'sha256:1d166282094bd2f04eaedf5fd49624fba5dacd4f160ceb5b27a626b1778eb1a0'}
+  - {seq: 1, filename: KR3ep085_001.yaml, hash: 'sha256:7c3b5b202042d2b95724e23e6eddfd3db4b41062ac95415f53c9c7075966f5cd'}
+  - {seq: 2, filename: KR3ep085_002.yaml, hash: 'sha256:c56617a87a63021dbc2f2caa9b238de2dc583354708949090837f4bbc68d0999'}
+  - {seq: 3, filename: KR3ep085_003.yaml, hash: 'sha256:17a7d2ba36bc170b05ca26dd094579c70e5f7a884e1c3be8489d8627512c9f2a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep085_000.markers.yaml, hash: 'sha256:7ed0e0aeae39b5ac310cce9ca3e107d37ac12d643c97a5f2f5a099dadc50cb6c'}
+  - {seq: 1, role: markers, filename: assets/KR3ep085_001.markers.yaml, hash: 'sha256:b294ac463f1566bf167789abeb2588ac60d67ec5a5b350585c25cff696ef0cb8'}
+  - {seq: 2, role: markers, filename: assets/KR3ep085_002.markers.yaml, hash: 'sha256:7b61f29e6c07f5010815557b39d764200310d12334a77c52053c99a680ce470c'}
+  - {seq: 3, role: markers, filename: assets/KR3ep085_003.markers.yaml, hash: 'sha256:c0936a6fdec598844f083115514766070a24e245eef8aab91eab7f504724aef2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep085_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 933
+  label: 重刊王氏醫案三編序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep085_jc_000-d3.h1s1
+    span:
+    - front
+    - 933
+    - 1436
+  label: 半癡山人醫案三編序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep085_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 321
+  label: 題王氏醫案三編
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep085_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9866
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep085_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10773
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep085_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16117
+  label: 卷三
+  type: section
+  level: 1
+hash: sha256:ad16c5f28c941491f390ea15de7ed61e02f4c3ce9daecc4469ecca867f185b2c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
