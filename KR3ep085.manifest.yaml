@@ -17,12 +17,12 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep085_000.yaml, hash: 'sha256:4055a832efef24a262e07f9b45b77064b68fb6337bb3425a1e559a8addca3003'}
+  - {seq: 0, filename: KR3ep085_000.yaml, hash: 'sha256:3fb6ebb8ba243818796350b47cd93991ed4de772ed3a73fc643977e7e4e564ef'}
   - {seq: 1, filename: KR3ep085_001.yaml, hash: 'sha256:bb3a004d63a80e1c12527b0be82cfafa5613e2ac2125ca93054fb8af4f9a8de8'}
   - {seq: 2, filename: KR3ep085_002.yaml, hash: 'sha256:e7175b4a66b9fe1263f2feef82ea93668f90b1d4d9e5bc0cc174394e08f41e6f'}
   - {seq: 3, filename: KR3ep085_003.yaml, hash: 'sha256:59582f6877c773d835ee7c32b0c943d5f1ef2b4652eabaed2fced99bda4fceb8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep085_000.markers.yaml, hash: 'sha256:0fe0d223ceb0242cec2c4886055a0c3158d9e4409c9db9fa469d2618eee96101'}
+  - {seq: 0, role: markers, filename: assets/KR3ep085_000.markers.yaml, hash: 'sha256:61c41dc0aa9771558e998cac535da6508555293da3f904eccd9289670bfab8d6'}
   - {seq: 1, role: markers, filename: assets/KR3ep085_001.markers.yaml, hash: 'sha256:53cd52bc4324e63d12c287fb7b4e2277a9d759102f5d896ea68dee3fcdde1d40'}
   - {seq: 2, role: markers, filename: assets/KR3ep085_002.markers.yaml, hash: 'sha256:a313f7e7a9840af83b6aa613e83b4a3b6d26d91f44380fb1ce9ab8f42cad2bbd'}
   - {seq: 3, role: markers, filename: assets/KR3ep085_003.markers.yaml, hash: 'sha256:309b92d4427ba348146125a24d930baa99b9dc2139af4aff095494bd9ee222ef'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep085_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 933
   label: 重刊王氏醫案三編序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep085_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 933
     - 1436
   label: 半癡山人醫案三編序
@@ -52,8 +52,8 @@ table_of_contents:
     marker_id: KR3ep085_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 321
+    - 1436
+    - 1757
   label: 題王氏醫案三編
   type: section
   level: 1
@@ -87,7 +87,7 @@ table_of_contents:
   label: 卷三
   type: section
   level: 1
-hash: sha256:1b13395f8211aeb37b79b3a6de168407c3a7e50604c106aefd6973682324a38a
+hash: sha256:9f3ff8529f7a4d169acc606d42b47fe813120d0579cfa2a0229242f92037be76
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ep085_000-jc.yaml, hash: 'sha256:a98301c12c18892f619ea6ba574a5ca1bd6c7f35d3f631d0256ba61cae0298fe'}
+  - {seq: 0, filename: KR3ep085_000-jc.yaml, hash: 'sha256:8d815c5d21420c05f7cccde1140ea5e1ee1d01c2ea4db437cce4f4888d911baf'}
   - {seq: 1, filename: KR3ep085_001-jc.yaml, hash: 'sha256:3fde63e1cab7763a1761cebf71d1b27cc63e55032fdc885a7ace4250594b7bc6'}
   - {seq: 2, filename: KR3ep085_002-jc.yaml, hash: 'sha256:65ce7195a9c6ad9aeefe9c6e1ef4b596bdb8c7018f62fe5dba48e5810a0c611d'}
   - {seq: 3, filename: KR3ep085_003-jc.yaml, hash: 'sha256:13ad8c6283fa50d79c21e82da7412245cd4859a01fe6f48db7ce8598269383e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep085_000-jc.markers.yaml, hash: 'sha256:47e8138634889b47a0c1fbce96c86669597c341c521b1669098be85b48d5a293'}
+  - {seq: 0, role: markers, filename: assets/KR3ep085_000-jc.markers.yaml, hash: 'sha256:b8fd203fb452cc3b2fc53397666f0c986c99f55fa4ad3a520a182c37a66ab306'}
   - {seq: 1, role: markers, filename: assets/KR3ep085_001-jc.markers.yaml, hash: 'sha256:9fdc00a98ce0951b70c6ece73b5b8168b5c763945d7b05529f12324ba8a15f8d'}
   - {seq: 2, role: markers, filename: assets/KR3ep085_002-jc.markers.yaml, hash: 'sha256:171c0a1cdfb4cbd2f14ae1c01b1a4084dd0b6bab6f6420ca3d4006e11023c649'}
   - {seq: 3, role: markers, filename: assets/KR3ep085_003-jc.markers.yaml, hash: 'sha256:71b4726df6fe64ab80fe00dc6731a54828048beb72b1b8e432220a5d8e521452'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep085_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 933
   label: 重刊王氏醫案三編序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ep085_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 933
     - 1436
   label: 半癡山人醫案三編序
@@ -52,8 +52,8 @@ table_of_contents:
     marker_id: KR3ep085_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 321
+    - 1436
+    - 1757
   label: 題王氏醫案三編
   type: section
   level: 1
@@ -87,4 +87,4 @@ table_of_contents:
   label: 卷三
   type: section
   level: 1
-hash: sha256:902a4c567ac09fe7361c7312924d029c5614aae9d34da3d290dcab786be31d1c
+hash: sha256:7d56db1bd8a0370e8a216598b6243eed7168e57d8f33b2e3513f39d607f7d35e
